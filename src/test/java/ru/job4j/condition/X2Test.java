@@ -5,8 +5,6 @@ import org.junit.Test;
 
 public class X2Test {
 
-    public static void assertEquals(long expected, long rsl) {
-    }
 
     @Test
     public void whenA1B1C1X1Then3() {
